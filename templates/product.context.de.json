@@ -1,0 +1,16 @@
+{
+  "parent": "product.json",
+  "context": {
+    "market": "de"
+  },
+  "sections": {
+    "product-recommendations": {
+      "settings": {
+        "title": "Das könnte dir auch gefallen",
+        "background": "#78b41b"
+      },
+      "blocks": {
+      }
+    }
+  }
+}

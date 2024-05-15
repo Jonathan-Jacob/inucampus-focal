@@ -1,0 +1,148 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "faq_GTRyY8": {
+      "type": "faq",
+      "blocks": {
+        "question_hC4rjW": {
+          "type": "question",
+          "settings": {
+            "title": "Bekomme ich für alle Webinare ATF Stunden?",
+            "answer": "<p>Es gibt zwei Kategorien Webinare – mit und ohne ATF Stunden. Die entsprechenden Informationen findest du in der Webinar-Beschreibung. <\/p>"
+          }
+        },
+        "question_CF7Rai": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich auch als TFA teilnehmen?",
+            "answer": "<p>Gern! Auch TFA sind bei uns willkommen! Leider können TFA nur in den Webinaren teilnehmen, die keine ATF-Stunden geben. <\/p>"
+          }
+        },
+        "question_8wjbfy": {
+          "type": "question",
+          "settings": {
+            "title": "Zu welchen Themen sind die Webinare?",
+            "answer": "<p>Wir haben eine große Bandbreite an Themen – in der <a href=\"\/collections\/all\" title=\"Alle Produkte\">Übersicht<\/a> findest du die aktuellen. Bisherige Themen waren zum Beispiel: <br\/>- Kardionotfälle in der Praxis erkennen und behandeln<br\/>- Physiotherapie in der Tierarztpraxis <br\/>- Mentale Gesundheit in der Tierarztpraxis <\/p><p>Folge uns doch auf <a href=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\" title=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\">Instagram<\/a>, dort findest du auch die Ankündigungen für die Webinare. <\/p>"
+          }
+        },
+        "question_NEgYt3": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Speaker bei euch werden?",
+            "answer": "<p>Wir suchen immer nach neuen Themen, Ideen und Speakern. Melde dich gern bei uns unter <a href=\"mailto:campus@inuvet.com\" target=\"_blank\" title=\"mailto:campus@inuvet.com\">campus@inuvet.com<\/a> !<\/p>"
+          }
+        },
+        "question_FLXLtP": {
+          "type": "question",
+          "settings": {
+            "title": "Wohin kann ich mich bei Fragen wenden?",
+            "answer": "<p>Schreib uns bei Fragen gern eine E-Mail an <a href=\"mailto:campus@inuvet.com\" title=\"mailto:campus@inuvet.com\">campus@inuvet.com<\/a><\/p>"
+          }
+        },
+        "question_HPrtBA": {
+          "type": "question",
+          "settings": {
+            "title": "Wie bekomme ich den Zugangslink?",
+            "answer": "<p>Nach deiner Bestellung bekommst du eine E-Mail mit allen Informationen, wie es weitergeht. Wir brauchen deine Approbationsbescheinigung oder das Zeugnis über die Bestandene TFA-Prüfung. Wir freuen uns auf dich!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_hC4rjW",
+        "question_CF7Rai",
+        "question_8wjbfy",
+        "question_NEgYt3",
+        "question_FLXLtP",
+        "question_HPrtBA"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Fragen?",
+            "content": "<p><strong>Wir helfen gerne! <\/strong><br\/>campus@inuvet.com<br\/>+49 7621 9373447<br\/>Montag bis Mittwoch 10:00-11:00 Uhr<br\/>Freitag 10:00-11:00 Uhr<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Sicheres Bezahlen",
+            "content": "<p>Eure Zahlungsinformationen werden sicher verarbeitet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-2",
+        "item-3"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Du willst nichts verpassen? Dann melde dich <a href=\"https:\/\/inuvet.com\/campus\" target=\"_blank\" title=\"https:\/\/inuvet.com\/campus\">hier<\/a> im Formular für unseren Newsletter an.<\/p>"
+          }
+        },
+        "text_raQa3R": {
+          "type": "text",
+          "settings": {
+            "title": "Feedback",
+            "content": "<p>Dein Feedback ist für uns sehr wichtig, schreib uns gerne unter campus@inuvet.com.<\/p>"
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer"
+          }
+        },
+        "social_media": {
+          "type": "social_media",
+          "settings": {
+            "title": "Social Media",
+            "content": "<p>Folge uns auf <a href=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\">Instagram<\/a>, <a href=\"https:\/\/www.tiktok.com\/@inuvet_tiergesundheit\" target=\"_blank\" title=\"https:\/\/www.tiktok.com\/@inuvet_tiergesundheit\">TikTok<\/a> oder <a href=\"https:\/\/www.facebook.com\/inuvet.de\/\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/inuvet.de\/\">Facebook<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "text_raQa3R",
+        "links",
+        "social_media"
+      ],
+      "settings": {
+        "show_payment_icons": true,
+        "enable_follow_on_shop": true,
+        "show_country_selector": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "faq_GTRyY8",
+    "text-with-icons",
+    "footer"
+  ]
+}
