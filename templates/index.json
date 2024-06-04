@@ -36,7 +36,7 @@
       "type": "rich-text",
       "settings": {
         "subheading": "",
-        "title": "AtF-Stunden gefällig?",
+        "title": "Das ist der Campus",
         "content": "<p>Flexibel wie du - hier findest du Webinare von und für Tierärzt*innen und TFA\/TPA. Gemeinsam mit Expert*innen ihres Gebiets diskutieren wir monatlich über ein Thema. Dabei kannst du dir aussuchen, ob du nur einmal dabei sein möchtest, jeden Monat oder ab und zu. Klick dich hier durch die Themen und meld' dich direkt an!<\/p>",
         "button_text": "Webinare entdecken",
         "button_link": "https:\/\/inucampus.com\/collections\/fur-tierarzt-innen",
@@ -60,7 +60,7 @@
             "tab_label": "Text 1",
             "subheading": "",
             "title": "Wissen von Tierärzt*innen für Tierärzt*innen",
-            "content": "<p>Du interessierst dich für Themen rund um die Tierarztpraxis, den Beruf als Tierärzt*in oder TFA und möchtest dich weiterbilden? Dann bist du hier genau richtig. Bei uns findest du jeden Monat mindestens ein Webinar zu verschiedenen Themen – und kannst flexibel entscheiden, bei welchen du dabei sein möchtest.  <br\/><br\/>Juliana & Frauke<\/p>",
+            "content": "<p>Du interessierst dich für Themen rund um die Tierarztpraxis, den Beruf als Tierärzt*in oder TFA\/TPA und möchtest dich weiterbilden? Dann bist du hier genau richtig. Bei uns findest du jeden Monat mindestens ein Webinar zu verschiedenen Themen – und kannst flexibel entscheiden, bei welchen du dabei sein möchtest.  <br\/><br\/>Juliana & Frauke<\/p>",
             "button_text": "",
             "button_link": ""
           }
