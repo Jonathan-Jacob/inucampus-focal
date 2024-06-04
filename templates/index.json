@@ -36,9 +36,9 @@
       "type": "rich-text",
       "settings": {
         "subheading": "",
-        "title": "Das ist der Campus",
-        "content": "<p>Flexibel wie du - hier findest du Webinare von und für Tierärzt*innen und TFA\/TPA. Gemeinsam mit Expert*innen ihres Gebiets diskutieren wir monatlich über ein Thema. Dabei kannst du dir aussuchen, ob du nur einmal dabei sein möchtest, jeden Monat oder ab und zu. Klick dich hier durch die Themen und meld' dich direkt an!<\/p>",
-        "button_text": "Webinare entdecken",
+        "title": "Das ist der Inuvet Campus",
+        "content": "<p>Flexibel wie du - hier findest du Webinare von und für Tierärzt*innen und TFA\/TPA. Gemeinsam mit Expert*innen ihres Gebiets diskutieren wir monatlich über ein Thema. Dabei kannst du dir aussuchen, ob du nur einmal dabei sein möchtest, jeden Monat oder ab und zu. Klick dich durch die Themen und meld' dich direkt an!<\/p>",
+        "button_text": "Hier durchklicken",
         "button_link": "https:\/\/inucampus.com\/collections\/fur-tierarzt-innen",
         "background_type": "full_width",
         "text_width": "medium",
