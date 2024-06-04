@@ -4,23 +4,5 @@
     "market": "de"
   },
   "sections": {
-    "shop-the-look": {
-      "settings": {
-      },
-      "blocks": {
-      }
-    },
-    "slideshow": {
-      "settings": {
-      },
-      "blocks": {
-        "slide-1": {
-          "settings": {
-            "button_background": "#ffffff",
-            "overlay_opacity": 0
-          }
-        }
-      }
-    }
   }
 }
