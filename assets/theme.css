@@ -117,6 +117,7 @@ button, [type="submit"] {
   border-radius: 0;
   padding: 0;
   overflow: visible;
+  color: green;
 }
 
 button[disabled], html input[disabled] {
