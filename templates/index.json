@@ -39,7 +39,7 @@
         "title": "Das ist der Inuvet Campus",
         "content": "<p>Flexibel wie du - hier findest du Webinare von und für Tierärzt*innen und TFA\/TPA. Gemeinsam mit Expert*innen ihres Gebiets diskutieren wir monatlich über ein Thema. Dabei kannst du dir aussuchen, ob du nur einmal dabei sein möchtest, jeden Monat oder ab und zu. Klick dich durch die Themen und meld' dich direkt an!<\/p>",
         "button_text": "Hier durchklicken",
-        "button_link": "https:\/\/inucampus.com\/collections\/fur-tierarzt-innen",
+        "button_link": "https:\/\/inucampus.com\/collections\/fur-tfa",
         "background_type": "full_width",
         "text_width": "medium",
         "text_position": "center",
@@ -61,8 +61,8 @@
             "subheading": "",
             "title": "Wissen von Tierärzt*innen für Tierärzt*innen",
             "content": "<p>Du interessierst dich für Themen rund um die Tierarztpraxis, den Beruf als Tierärzt*in oder TFA\/TPA und möchtest dich weiterbilden? Dann bist du hier genau richtig. Bei uns findest du jeden Monat mindestens ein Webinar zu verschiedenen Themen – und kannst flexibel entscheiden, bei welchen du dabei sein möchtest.  <br\/><br\/>Juliana & Frauke<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "button_text": "Webinare für Tierärzt*innen",
+            "button_link": "https:\/\/inucampus.com\/collections\/fur-tierarzt-innen"
           }
         }
       },
