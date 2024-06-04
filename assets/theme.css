@@ -101,7 +101,7 @@ a {
 }
 
 button, input, select, textarea {
-  color: inherit;
+  color: green;
   font: inherit;
   text-align: inherit;
   margin: 0;
