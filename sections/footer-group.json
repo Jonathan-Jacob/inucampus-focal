@@ -2,6 +2,22 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "contact_form_HCyymq": {
+      "type": "contact-form",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/administrator.jpg",
+        "title": "Fragen? Schreib uns!",
+        "content": "",
+        "text_1_heading": "",
+        "text_1_text": "",
+        "text_2_heading": "",
+        "text_2_text": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#78b41b",
+        "button_text_color": "#282828"
+      }
+    },
     "faq_GTRyY8": {
       "type": "faq",
       "blocks": {
@@ -141,6 +157,7 @@
     }
   },
   "order": [
+    "contact_form_HCyymq",
     "faq_GTRyY8",
     "text-with-icons",
     "footer"
