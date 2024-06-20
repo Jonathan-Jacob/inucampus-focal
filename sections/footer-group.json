@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "footer",
   "name": "Footer group",
@@ -67,15 +76,6 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "item-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-phone",
-            "custom_icon_width": 50,
-            "title": "Fragen?",
-            "content": "<p><strong>Wir helfen gerne! <\/strong><br\/>campus@inuvet.com<br\/>+49 7621 9373447<br\/>Montag bis Mittwoch 10:00-11:00 Uhr<br\/>Freitag 10:00-11:00 Uhr<\/p>"
-          }
-        },
         "item-3": {
           "type": "item",
           "settings": {
@@ -84,11 +84,30 @@
             "title": "Sicheres Bezahlen",
             "content": "<p>Eure Zahlungsinformationen werden sicher verarbeitet.<\/p>"
           }
+        },
+        "item_mG3Mk3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-donation",
+            "custom_icon_width": 50,
+            "title": "Fortbiludungsstunden?",
+            "content": "<p>Ihr sammelt ATF- oder AG TFA-Stunden? Beim Inuvet Campus bekommt ihr sie!<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Fragen?",
+            "content": "<p><strong>Wir helfen gerne! <\/strong><br\/>campus@inuvet.com<br\/>+49 7621 9373447<br\/>Montag bis Mittwoch 10:00-11:00 Uhr<br\/>Freitag 10:00-11:00 Uhr<\/p>"
+          }
         }
       },
       "block_order": [
-        "item-2",
-        "item-3"
+        "item-3",
+        "item_mG3Mk3",
+        "item-2"
       ],
       "settings": {
         "background": "rgba(0,0,0,0)",
