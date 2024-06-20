@@ -59,6 +59,57 @@
         "button_text_color": "#282828"
       }
     },
+    "promotion_blocks_YdDNiA": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "quote_ieQ8JG": {
+          "type": "quote",
+          "settings": {
+            "highlight": false,
+            "subheading": "",
+            "content": "Mir gefällt am Inuvet Campus, dass die Webinare interessant und gut aufgebaut sind und die Buchung schnell und unkompliziert ist.\"",
+            "author": "Laura S.",
+            "background": "#78b41b",
+            "text_color": "#282828"
+          }
+        },
+        "quote_cC9hkF": {
+          "type": "quote",
+          "settings": {
+            "highlight": false,
+            "subheading": "",
+            "content": "Mir gefällt, dass die Webinare so flexibel sind und keine Verpflichtung – ich kann immer einzelne Webinare buchen, wenn es mir passt.",
+            "author": "Tina B.",
+            "background": "#78b41b",
+            "text_color": "#282828"
+          }
+        },
+        "quote_BFAieV": {
+          "type": "quote",
+          "settings": {
+            "highlight": false,
+            "subheading": "",
+            "content": "Ihr seid ein lustiger und sehr sympathischer Haufen!",
+            "author": "Sandra B.",
+            "background": "#78b41b",
+            "text_color": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "quote_ieQ8JG",
+        "quote_cC9hkF",
+        "quote_BFAieV"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Zufriedene Kunden",
+        "section_size": "medium",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -165,6 +216,7 @@
   "order": [
     "image_with_text_c6p3EB",
     "rich_text_BPfLEj",
+    "promotion_blocks_YdDNiA",
     "image-with-text",
     "featured_collections_rWVXWR",
     "rich_text_KqXRTz",
