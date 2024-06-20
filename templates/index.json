@@ -143,13 +143,14 @@
       "type": "newsletter",
       "settings": {
         "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-20_102839.png",
         "subheading": "Nichts mehr verpassen!",
         "content": "<p>Du willst keine News mehr zum Campus verpassen? Dann melde dich jetzt für den Newsletter an:<\/p>",
         "text_position": "center",
         "text_alignment": "center",
         "text_background": "#78b41b",
         "text_color": "#282828",
-        "button_background": "#78b41b",
+        "button_background": "#ffffff",
         "button_text_color": "#282828"
       }
     },
