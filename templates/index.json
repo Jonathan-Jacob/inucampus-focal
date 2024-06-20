@@ -59,6 +59,71 @@
         "button_text_color": "#282828"
       }
     },
+    "multi_column_633p3g": {
+      "type": "multi-column",
+      "blocks": {
+        "item_fD3Yc4": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p><em>\"Mir gefällt am Inuvet Campus, dass die Webinare interessant und gut aufgebaut sind und die Buchung schnell und unkompliziert ist.<\/em>\"<br\/><br\/>Laura S., TFA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "item_P9wfFg": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p><em>\"Mir gefällt, dass die Webinare so flexibel sind und keine Verpflichtung – ich kann immer einzelne Webinare buchen, wenn es mir passt.\"<\/em><br\/><\/p><p>Tina B., TFA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "item_6r7aCE": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p><em>\"Ihr seid ein lustiger und sehr sympathischer Haufen!\"<\/em><\/p><p><\/p><p><br\/>Sandra Bruckner, Speakerin<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "item_fD3Yc4",
+        "item_P9wfFg",
+        "item_6r7aCE"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "Zufriedene Kunden",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "promotion_blocks_YdDNiA": {
       "type": "promotion-blocks",
       "blocks": {
@@ -101,6 +166,7 @@
         "quote_cC9hkF",
         "quote_BFAieV"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "Zufriedene Kunden",
@@ -216,6 +282,7 @@
   "order": [
     "image_with_text_c6p3EB",
     "rich_text_BPfLEj",
+    "multi_column_633p3g",
     "promotion_blocks_YdDNiA",
     "image-with-text",
     "featured_collections_rWVXWR",
