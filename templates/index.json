@@ -142,7 +142,7 @@
     "newsletter_FEarzc": {
       "type": "newsletter",
       "settings": {
-        "reveal_on_scroll": true,
+        "reveal_on_scroll": false,
         "image": "shopify:\/\/shop_images\/Screenshot_2024-06-20_102839.png",
         "subheading": "Nichts mehr verpassen!",
         "content": "<p>Du willst keine News mehr zum Campus verpassen? Dann melde dich jetzt für den Newsletter an:<\/p>",
