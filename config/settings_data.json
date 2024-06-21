@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "icon_stroke_width": 2,
@@ -55,15 +64,6 @@
 
     ],
     "blocks": {
-      "10830403595879607806": {
-        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-core\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-        "disabled": false,
-        "settings": {
-          "url_key": "inucampus.com",
-          "lang": "auto",
-          "enable_syndication": false
-        }
-      },
       "15316669992541710076": {
         "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-snippet\/92a082e5-b297-4e88-b428-ac96cbc505f9",
         "disabled": false,
@@ -97,6 +97,21 @@
         "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-sessions\/92a082e5-b297-4e88-b428-ac96cbc505f9",
         "disabled": false,
         "settings": {
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "10830403595879607806": {
+        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-core\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "disabled": false,
+        "settings": {
+          "url_key": "597a4e-2.myshopify.com",
+          "lang": "auto",
+          "enable_syndication": false
         }
       }
     }
