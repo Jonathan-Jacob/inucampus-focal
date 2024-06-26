@@ -69,8 +69,8 @@
         "show_navigation": false,
         "title": "FAQ",
         "content": "",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "background": "#ffffff",
+        "text_color": "#282828"
       }
     },
     "text-with-icons": {
