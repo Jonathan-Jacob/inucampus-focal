@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "header",
   "name": "Header group",
@@ -19,9 +28,9 @@
       "type": "header",
       "settings": {
         "enable_sticky_header": true,
-        "logo": "{{ shop.brand.logo }}",
-        "logo_max_width": 140,
-        "mobile_logo_max_width": 100,
+        "logo": "shopify:\/\/shop_images\/Campus_icon_3.png",
+        "logo_max_width": 90,
+        "mobile_logo_max_width": 80,
         "navigation_menu": "header-menu",
         "sidebar_navigation_menu": "",
         "header_layout": "logo_left_navigation_center",
