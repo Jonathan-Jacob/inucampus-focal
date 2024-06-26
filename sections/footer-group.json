@@ -76,13 +76,13 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "item-3": {
+        "item-2": {
           "type": "item",
           "settings": {
-            "icon": "picto-lock",
+            "icon": "picto-phone",
             "custom_icon_width": 50,
-            "title": "Sicheres Bezahlen",
-            "content": "<p>Eure Zahlungsinformationen werden sicher verarbeitet.<\/p>"
+            "title": "Fragen?",
+            "content": "<p><strong>Wir helfen gerne! <\/strong><br\/>campus@inuvet.com<br\/>+49 7621 9373447<br\/>Montag bis Mittwoch 10:00-11:00 Uhr<br\/>Freitag 10:00-11:00 Uhr<\/p>"
           }
         },
         "item_mG3Mk3": {
@@ -94,20 +94,20 @@
             "content": "<p>Ihr sammelt ATF- oder AG TFA-Stunden? Beim Inuvet Campus bekommt ihr sie!<\/p>"
           }
         },
-        "item-2": {
+        "item-3": {
           "type": "item",
           "settings": {
-            "icon": "picto-phone",
+            "icon": "picto-lock",
             "custom_icon_width": 50,
-            "title": "Fragen?",
-            "content": "<p><strong>Wir helfen gerne! <\/strong><br\/>campus@inuvet.com<br\/>+49 7621 9373447<br\/>Montag bis Mittwoch 10:00-11:00 Uhr<br\/>Freitag 10:00-11:00 Uhr<\/p>"
+            "title": "Sicheres Bezahlen",
+            "content": "<p>Eure Zahlungsinformationen werden sicher verarbeitet.<\/p>"
           }
         }
       },
       "block_order": [
-        "item-3",
+        "item-2",
         "item_mG3Mk3",
-        "item-2"
+        "item-3"
       ],
       "settings": {
         "background": "rgba(0,0,0,0)",
