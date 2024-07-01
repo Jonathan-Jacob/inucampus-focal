@@ -141,7 +141,7 @@
           "type": "social_media",
           "settings": {
             "title": "Social Media",
-            "content": "<p>Folge uns auf <a href=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\">Instagram<\/a>, <a href=\"https:\/\/www.tiktok.com\/@inuvet_tiergesundheit\" target=\"_blank\" title=\"https:\/\/www.tiktok.com\/@inuvet_tiergesundheit\">TikTok<\/a> oder <a href=\"https:\/\/www.facebook.com\/inuvet.de\/\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/inuvet.de\/\">Facebook<\/a>.<\/p>"
+            "content": "<p>Folge uns auf:<\/p>"
           }
         }
       },
