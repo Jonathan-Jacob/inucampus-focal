@@ -117,17 +117,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text_raQa3R": {
-          "type": "text",
+        "newsletter_kdyyed": {
+          "type": "newsletter",
           "settings": {
-            "title": "Feedback",
-            "content": "<p>Dein Feedback ist für uns sehr wichtig, schreib uns gerne unter campus@inuvet.com.<\/p>"
-          }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer"
+            "title": "Newsletter",
+            "content": "<p>Sicher dir 10% Rabatt auf deine erste Bestellung! Abonniere unseren Newsletter:<\/p>"
           }
         },
         "social_media": {
@@ -137,19 +131,17 @@
             "content": "<p>Folge uns auf:<\/p>"
           }
         },
-        "newsletter_kdyyed": {
-          "type": "newsletter",
+        "links": {
+          "type": "links",
           "settings": {
-            "title": "Newsletter",
-            "content": "<p>Sicher dir 10% Rabatt auf deine erste Bestellung! Abonniere unseren Newsletter.<\/p>"
+            "menu": "footer"
           }
         }
       },
       "block_order": [
-        "text_raQa3R",
-        "links",
+        "newsletter_kdyyed",
         "social_media",
-        "newsletter_kdyyed"
+        "links"
       ],
       "settings": {
         "show_payment_icons": true,
