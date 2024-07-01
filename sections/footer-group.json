@@ -117,13 +117,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "Newsletter",
-            "content": "<p>Du willst nichts verpassen? Dann melde dich <a href=\"https:\/\/inuvet.com\/campus\" target=\"_blank\" title=\"https:\/\/inuvet.com\/campus\">hier<\/a> im Formular für unseren Newsletter an.<\/p>"
-          }
-        },
         "text_raQa3R": {
           "type": "text",
           "settings": {
@@ -143,13 +136,20 @@
             "title": "Social Media",
             "content": "<p>Folge uns auf:<\/p>"
           }
+        },
+        "newsletter_kdyyed": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Sicher dir 10% Rabatt auf deine erste Bestellung! Abonniere unseren Newsletter.<\/p>"
+          }
         }
       },
       "block_order": [
-        "text",
         "text_raQa3R",
         "links",
-        "social_media"
+        "social_media",
+        "newsletter_kdyyed"
       ],
       "settings": {
         "show_payment_icons": true,
