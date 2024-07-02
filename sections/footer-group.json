@@ -98,68 +98,6 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
-    "faq_GTRyY8": {
-      "type": "faq",
-      "blocks": {
-        "question_hC4rjW": {
-          "type": "question",
-          "settings": {
-            "title": "Bekomme ich für alle Webinare ATF- oder AG TFA Stunden?",
-            "answer": "<p>Es gibt drei Kategorien Webinare – mit ATF- oder AG TFA Stunden und ohne. Die entsprechende Information findest du in der Weinar-Beschreibung .<\/p>"
-          }
-        },
-        "question_CF7Rai": {
-          "type": "question",
-          "settings": {
-            "title": "Kann ich auch als TFA teilnehmen?",
-            "answer": "<p>Gern! Auch TFA sind bei uns willkommen! In manchen Webinaren kannst du auch eine AG TFA Stunde bekommen. <\/p>"
-          }
-        },
-        "question_8wjbfy": {
-          "type": "question",
-          "settings": {
-            "title": "Zu welchen Themen sind die Webinare?",
-            "answer": "<p>Wir haben eine große Bandbreite an Themen – in der <a href=\"\/collections\/all\" title=\"Alle Produkte\">Übersicht<\/a> findest du die aktuellen. Bisherige Themen waren zum Beispiel: <br\/>- Kardionotfälle in der Praxis erkennen und behandeln<br\/>- Physiotherapie in der Tierarztpraxis <br\/>- Einsatz von CBD bei Groß- und Kleintier <\/p><p>Folge uns doch auf <a href=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\" title=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\">Instagram<\/a>, dort findest du auch die Ankündigungen für die Webinare. <\/p>"
-          }
-        },
-        "question_NEgYt3": {
-          "type": "question",
-          "settings": {
-            "title": "Kann ich Speaker bei euch werden?",
-            "answer": "<p>Wir suchen immer nach neuen Themen, Ideen und Speakern. Melde dich gern bei uns unter <a href=\"mailto:campus@inuvet.com\" target=\"_blank\" title=\"mailto:campus@inuvet.com\">campus@inuvet.com<\/a> !<\/p>"
-          }
-        },
-        "question_FLXLtP": {
-          "type": "question",
-          "settings": {
-            "title": "Wohin kann ich mich bei Fragen wenden?",
-            "answer": "<p>Schreib uns bei Fragen gern eine E-Mail an <a href=\"mailto:campus@inuvet.com\" title=\"mailto:campus@inuvet.com\">campus@inuvet.com<\/a><\/p>"
-          }
-        },
-        "question_HPrtBA": {
-          "type": "question",
-          "settings": {
-            "title": "Wie bekomme ich den Zugangslink?",
-            "answer": "<p>Nach deiner Bestellung bekommst du eine E-Mail mit allen Informationen, wie es weitergeht. Wir brauchen deine Approbationsbescheinigung oder das Zeugnis über die Bestandene TFA-Prüfung. Wir freuen uns auf dich!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_hC4rjW",
-        "question_CF7Rai",
-        "question_8wjbfy",
-        "question_NEgYt3",
-        "question_FLXLtP",
-        "question_HPrtBA"
-      ],
-      "settings": {
-        "show_navigation": false,
-        "title": "FAQ",
-        "content": "",
-        "background": "#ffffff",
-        "text_color": "#282828"
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -200,7 +138,6 @@
   "order": [
     "faq_Mh7fxV",
     "text-with-icons",
-    "faq_GTRyY8",
     "footer"
   ]
 }
