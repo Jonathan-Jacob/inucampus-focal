@@ -11,6 +11,155 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "faq_Mh7fxV": {
+      "type": "faq",
+      "blocks": {
+        "question_6BkKHV": {
+          "type": "question",
+          "settings": {
+            "title": "AG TFA Stunden können einiges!",
+            "answer": "<p>Wusstet ihr, dass ihr euch als TFA seit 2009 Fortbildungsstunden anrechnen lassen könnt? Ja, wirklich! Und zwar über die Arbeitsgemeinschaft zur Anerkennung von Fort- und Weiterbildungen (AG TFA). Was das für Euch bedeutet? Mehr Gehalt! <\/p>"
+          }
+        },
+        "question_mpnJJC": {
+          "type": "question",
+          "settings": {
+            "title": "Wie funktionieren AG TFA Stunden?",
+            "answer": "<p>Ihr sammelt AG TFA Stunden indem ihr Seminare, Vorträge, Workshops oder interaktive Fort- und Weiterbildungsangebote besucht, die von der Arbeitsgemeinschaft zur Anerkennung von Fort- und Weiterbildungen akkreditiert sind. Diese müssen aber nicht immer ortsgebunden sein, sondern können auch online stattfinden. <\/p><p>Mit AG TFA Stunden könnt ihr euch über kurz oder lang Stunden ansammeln, die euch später die Einstufung in eine höhere Gehaltsstufe ermöglichen – bei 60 Stunden innerhalb von 3 Jahren ist die Einstufung in die Tätigkeitsgruppe II möglich. Bei 80 Stunden innerhalb von 4 Jahren dann auch die Einstufung in die Tätigkeitsgruppe III. <\/p><p>Großer Pluspunkt: Ihr bekommt neues, qualitativ hochwertiges tiermedizinisches Wissen, das euch zu Expert*innen auf eurem Gebiet macht. So könnt ihr euren Patienten noch besser helfen!<\/p>"
+          }
+        },
+        "question_VT3Hk9": {
+          "type": "question",
+          "settings": {
+            "title": "Vorteile, Vorteile, Inuvet Campus!",
+            "answer": "<p>Im Inuvet Campus habt ihr die Möglichkeit, an bestimmten Webinaren teilzunehmen und dafür AG TFA Stunden zu erhalten. <\/p><p>Ihr habt es in der Hand: unsere Webinare bieten euch unterschiedliche Themen, um euer Wissen zu erweitern und in der Tarifstufe aufzusteigen. Ihr interessiert euch für Praxismanagement, die Handhabung von CBD, grundlegendes Wissen zum Thema Phytotherapie oder wollt Tipps für den besseren Umgang mit Tierschutzhunden in der Praxis? Egal welche Themen euch interessieren, im Inuvet Campus wird jede*r fündig! <\/p><p>Wichtig! Ihr solltet immer zuerst mit eure*m Tierärzt*in sprechen, bevor ihr AG TFA Stunden sammelt, vor allem wenn ihr diese für eine potentielle Gehaltserhöhung anerkennen lassen wollt. So könnt ihr sichergehen, dass eure aufgewandte Zeit auch zum gewünschten Ziel führt. <\/p>"
+          }
+        },
+        "question_6h9FQL": {
+          "type": "question",
+          "settings": {
+            "title": "Wie erhalte ich AG TFA Stunden",
+            "answer": "<p>Ihr habt mit eure*m Tierärzt*in besprochen, ob AG TFA Stunden anerkannt werden, habt am Webinar teilgenommen und eure AG TFA Stunden ergattert – was jetzt? Am Ende des Webinars erhaltet ihr von uns eine Teilnahmebescheinigung, die ihr bei eure*r Chef*in einreichen könnt. Nur so ist es möglich, euch die AG TFA Stunden anrechnen lassen zu können.<\/p><p> <\/p><p>Wichtig! Ihr solltet euch zunächst über mögliche Anforderungen der für euch zuständigen Kammer oder Berufsverband informieren. Nur so könnt ihr und euer Arbeitgeber sichergehen, dass eure Stunden anerkannt werden können. Das ist auch dann wichtig, wenn ihr spezielle Fortbildungen macht, die ihr der jeweiligen Kammer oder dem Berufsverband melden müsst.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_6BkKHV",
+        "question_mpnJJC",
+        "question_VT3Hk9",
+        "question_6h9FQL"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "AG TFA Stunden",
+        "content": "",
+        "background": "#ffffff",
+        "text_color": "#282828"
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Fragen oder Feedback?",
+            "content": "<p><strong>Wir helfen gerne! <\/strong><br\/>campus@inuvet.com<br\/>+49 7621 9373447<br\/>Montag bis Mittwoch 10:00-11:00 Uhr<br\/>Freitag 10:00-11:00 Uhr<\/p>"
+          }
+        },
+        "item_mG3Mk3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-donation",
+            "custom_icon_width": 50,
+            "title": "Fortbiludungsstunden?",
+            "content": "<p>Ihr sammelt ATF- oder AG TFA-Stunden? Beim Inuvet Campus bekommt ihr sie!<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Sicheres Bezahlen",
+            "content": "<p>Eure Zahlungsinformationen werden sicher verarbeitet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-2",
+        "item_mG3Mk3",
+        "item-3"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "faq_GTRyY8": {
+      "type": "faq",
+      "blocks": {
+        "question_hC4rjW": {
+          "type": "question",
+          "settings": {
+            "title": "Bekomme ich für alle Webinare ATF- oder AG TFA Stunden?",
+            "answer": "<p>Es gibt drei Kategorien Webinare – mit ATF- oder AG TFA Stunden und ohne. Die entsprechende Information findest du in der Weinar-Beschreibung .<\/p>"
+          }
+        },
+        "question_CF7Rai": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich auch als TFA teilnehmen?",
+            "answer": "<p>Gern! Auch TFA sind bei uns willkommen! In manchen Webinaren kannst du auch eine AG TFA Stunde bekommen. <\/p>"
+          }
+        },
+        "question_8wjbfy": {
+          "type": "question",
+          "settings": {
+            "title": "Zu welchen Themen sind die Webinare?",
+            "answer": "<p>Wir haben eine große Bandbreite an Themen – in der <a href=\"\/collections\/all\" title=\"Alle Produkte\">Übersicht<\/a> findest du die aktuellen. Bisherige Themen waren zum Beispiel: <br\/>- Kardionotfälle in der Praxis erkennen und behandeln<br\/>- Physiotherapie in der Tierarztpraxis <br\/>- Einsatz von CBD bei Groß- und Kleintier <\/p><p>Folge uns doch auf <a href=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\" title=\"https:\/\/www.instagram.com\/inuvet_tiergesundheit\/\">Instagram<\/a>, dort findest du auch die Ankündigungen für die Webinare. <\/p>"
+          }
+        },
+        "question_NEgYt3": {
+          "type": "question",
+          "settings": {
+            "title": "Kann ich Speaker bei euch werden?",
+            "answer": "<p>Wir suchen immer nach neuen Themen, Ideen und Speakern. Melde dich gern bei uns unter <a href=\"mailto:campus@inuvet.com\" target=\"_blank\" title=\"mailto:campus@inuvet.com\">campus@inuvet.com<\/a> !<\/p>"
+          }
+        },
+        "question_FLXLtP": {
+          "type": "question",
+          "settings": {
+            "title": "Wohin kann ich mich bei Fragen wenden?",
+            "answer": "<p>Schreib uns bei Fragen gern eine E-Mail an <a href=\"mailto:campus@inuvet.com\" title=\"mailto:campus@inuvet.com\">campus@inuvet.com<\/a><\/p>"
+          }
+        },
+        "question_HPrtBA": {
+          "type": "question",
+          "settings": {
+            "title": "Wie bekomme ich den Zugangslink?",
+            "answer": "<p>Nach deiner Bestellung bekommst du eine E-Mail mit allen Informationen, wie es weitergeht. Wir brauchen deine Approbationsbescheinigung oder das Zeugnis über die Bestandene TFA-Prüfung. Wir freuen uns auf dich!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_hC4rjW",
+        "question_CF7Rai",
+        "question_8wjbfy",
+        "question_NEgYt3",
+        "question_FLXLtP",
+        "question_HPrtBA"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "#ffffff",
+        "text_color": "#282828"
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -49,6 +198,9 @@
     }
   },
   "order": [
+    "faq_Mh7fxV",
+    "text-with-icons",
+    "faq_GTRyY8",
     "footer"
   ]
 }
