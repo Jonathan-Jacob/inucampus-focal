@@ -11,82 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "faq_Mh7fxV": {
-      "type": "faq",
-      "blocks": {
-        "question_6BkKHV": {
-          "type": "question",
-          "settings": {
-            "title": "AG TFA Stunden können einiges!",
-            "answer": "<p>Wusstet ihr, dass ihr euch als TFA seit 2009 Fortbildungsstunden anrechnen lassen könnt? Ja, wirklich! Und zwar über die Arbeitsgemeinschaft zur Anerkennung von Fort- und Weiterbildungen (AG TFA). Was das für Euch bedeutet? Mehr Gehalt! <\/p>"
-          }
-        },
-        "question_mpnJJC": {
-          "type": "question",
-          "settings": {
-            "title": "Wie funktionieren AG TFA Stunden?",
-            "answer": "<p>Ihr sammelt AG TFA Stunden indem ihr Seminare, Vorträge, Workshops oder interaktive Fort- und Weiterbildungsangebote besucht, die von der Arbeitsgemeinschaft zur Anerkennung von Fort- und Weiterbildungen akkreditiert sind. Diese müssen aber nicht immer ortsgebunden sein, sondern können auch online stattfinden. <\/p><p>Mit AG TFA Stunden könnt ihr euch über kurz oder lang Stunden ansammeln, die euch später die Einstufung in eine höhere Gehaltsstufe ermöglichen – bei 60 Stunden innerhalb von 3 Jahren ist die Einstufung in die Tätigkeitsgruppe II möglich. Bei 80 Stunden innerhalb von 4 Jahren dann auch die Einstufung in die Tätigkeitsgruppe III. <\/p><p>Großer Pluspunkt: Ihr bekommt neues, qualitativ hochwertiges tiermedizinisches Wissen, das euch zu Expert*innen auf eurem Gebiet macht. So könnt ihr euren Patienten noch besser helfen!<\/p>"
-          }
-        },
-        "question_VT3Hk9": {
-          "type": "question",
-          "settings": {
-            "title": "Vorteile, Vorteile, Inuvet Campus!",
-            "answer": "<p>Im Inuvet Campus habt ihr die Möglichkeit, an bestimmten Webinaren teilzunehmen und dafür AG TFA Stunden zu erhalten. <\/p><p>Ihr habt es in der Hand: unsere Webinare bieten euch unterschiedliche Themen, um euer Wissen zu erweitern und in der Tarifstufe aufzusteigen. Ihr interessiert euch für Praxismanagement, die Handhabung von CBD, grundlegendes Wissen zum Thema Phytotherapie oder wollt Tipps für den besseren Umgang mit Tierschutzhunden in der Praxis? Egal welche Themen euch interessieren, im Inuvet Campus wird jede*r fündig! <\/p><p>Wichtig! Ihr solltet immer zuerst mit eure*m Tierärzt*in sprechen, bevor ihr AG TFA Stunden sammelt, vor allem wenn ihr diese für eine potentielle Gehaltserhöhung anerkennen lassen wollt. So könnt ihr sichergehen, dass eure aufgewandte Zeit auch zum gewünschten Ziel führt. <\/p>"
-          }
-        },
-        "question_6h9FQL": {
-          "type": "question",
-          "settings": {
-            "title": "Wie erhalte ich AG TFA Stunden",
-            "answer": "<p>Ihr habt mit eure*m Tierärzt*in besprochen, ob AG TFA Stunden anerkannt werden, habt am Webinar teilgenommen und eure AG TFA Stunden ergattert – was jetzt? Am Ende des Webinars erhaltet ihr von uns eine Teilnahmebescheinigung, die ihr bei eure*r Chef*in einreichen könnt. Nur so ist es möglich, euch die AG TFA Stunden anrechnen lassen zu können.<\/p><p> <\/p><p>Wichtig! Ihr solltet euch zunächst über mögliche Anforderungen der für euch zuständigen Kammer oder Berufsverband informieren. Nur so könnt ihr und euer Arbeitgeber sichergehen, dass eure Stunden anerkannt werden können. Das ist auch dann wichtig, wenn ihr spezielle Fortbildungen macht, die ihr der jeweiligen Kammer oder dem Berufsverband melden müsst.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_6BkKHV",
-        "question_mpnJJC",
-        "question_VT3Hk9",
-        "question_6h9FQL"
-      ],
-      "settings": {
-        "show_navigation": false,
-        "title": "AG TFA Stunden",
-        "content": "",
-        "background": "#ffffff",
-        "text_color": "#282828"
-      }
-    },
-    "featured_collections_kpaPz4": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_9WmBmh": {
-          "type": "collection",
-          "settings": {
-            "collection": "fur-tfa",
-            "label": "",
-            "button_text": "",
-            "button_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_9WmBmh"
-      ],
-      "settings": {
-        "subheading": "Webinare für TFA",
-        "title": "",
-        "content": "",
-        "products_count": 4,
-        "products_per_row": 4,
-        "stack_products": true,
-        "show_cta": true,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -125,8 +49,6 @@
     }
   },
   "order": [
-    "faq_Mh7fxV",
-    "featured_collections_kpaPz4",
     "footer"
   ]
 }
