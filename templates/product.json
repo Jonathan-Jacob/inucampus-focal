@@ -67,10 +67,19 @@
           "type": "description",
           "settings": {
           }
+        },
+        "content_THVVmg": {
+          "type": "content",
+          "settings": {
+            "title": "Datum",
+            "content": "<p>{{ block.settings.page.metafields.custom.datum.value }}<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "description"
+        "description",
+        "content_THVVmg"
       ],
       "settings": {
       }
