@@ -68,18 +68,27 @@
           "settings": {
           }
         },
-        "content_iF3a3y": {
+        "content_iKGn7F": {
+          "type": "content",
+          "settings": {
+            "title": "Wann?",
+            "content": "<p>{{ product.metafields.custom.dauer.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "content_iMfKkM": {
           "type": "content",
           "settings": {
             "title": "Referent*in",
-            "content": "<p>{{ block.settings.page.metafields.custom.speaker.value }}<\/p>",
+            "content": "<p>{{ product.metafields.custom.referent_in.value }}<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "description_eGEgyi",
-        "content_iF3a3y"
+        "content_iKGn7F",
+        "content_iMfKkM"
       ],
       "settings": {
       }
