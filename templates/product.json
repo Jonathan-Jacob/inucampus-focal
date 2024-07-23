@@ -65,22 +65,31 @@
       "blocks": {
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
         "content_THVVmg": {
           "type": "content",
+          "disabled": true,
           "settings": {
             "title": "Datum",
             "content": "<p>{{ block.settings.page.metafields.custom.datum.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "content_QEUhEg": {
+          "type": "content",
+          "settings": {
+            "title": "Referent",
+            "content": "<p>{{ block.settings.page.metafields.custom.speaker.value }}<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "description",
-        "content_THVVmg"
+        "content_THVVmg",
+        "content_QEUhEg"
       ],
       "settings": {
       }
