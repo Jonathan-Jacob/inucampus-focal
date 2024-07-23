@@ -63,35 +63,24 @@
     "product-content": {
       "type": "product-content",
       "blocks": {
-        "description": {
+        "description_eGEgyi": {
           "type": "description",
           "settings": {
           }
         },
-        "content_THVVmg": {
-          "type": "content",
-          "disabled": true,
-          "settings": {
-            "title": "Datum",
-            "content": "<p>{{ block.settings.page.metafields.custom.datum.value }}<\/p>",
-            "page": ""
-          }
-        },
-        "content_QEUhEg": {
+        "content_iF3a3y": {
           "type": "content",
           "settings": {
-            "title": "Referent",
+            "title": "Referent*in",
             "content": "<p>{{ block.settings.page.metafields.custom.speaker.value }}<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "description",
-        "content_THVVmg",
-        "content_QEUhEg"
+        "description_eGEgyi",
+        "content_iF3a3y"
       ],
-      "disabled": true,
       "settings": {
       }
     },
