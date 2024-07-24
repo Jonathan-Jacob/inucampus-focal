@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_jdKNef": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.untertitel.value }}<\/p>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -40,6 +46,7 @@
         }
       },
       "block_order": [
+        "text_jdKNef",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
