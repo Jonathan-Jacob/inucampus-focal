@@ -22,7 +22,7 @@
     "footer_text_color": "#ffffff",
     "primary_button_background": "#78b41b",
     "secondary_button_background": "#78b41b",
-    "secondary_button_text_color": "#282828",
+    "secondary_button_text_color": "#ffffff",
     "product_on_sale_accent": "#de2a2a",
     "product_custom_label_background": "#405de6",
     "product_custom_label_2_background": "#f3ff34",
@@ -64,6 +64,16 @@
           "empty_button_link": "shopify:\/\/collections\/all",
           "show_recommendations": true,
           "recommendations_title": "Weitere interessante Webinare"
+        }
+      },
+      "main-gift-card": {
+        "type": "main-gift-card",
+        "settings": {
+          "logo_max_width": 140,
+          "mobile_logo_max_width": 100,
+          "background": "#1e316a",
+          "content_background": "#ffffff",
+          "text_color": "#1e316a"
         }
       }
     },
